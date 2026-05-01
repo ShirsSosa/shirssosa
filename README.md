@@ -1,5 +1,4 @@
 ### Hello, I´m Shirley Sosa 👋
 
-**Human-Centered AI Product Leader**. I design AI products that put humans first. Conversation Design · Responsible AI · EdTech · LATAM.
-Founder of Juntas Comunidad & IA Camp. Google Women TechMakers Ambassador with impact more +4500 participants in events.
-
+**Conversation Designer & AI Product Strategist** Designing human-centered AI systems that bridge behavior, business, and scalable conversational experiences. Founder of Juntas Comunidad & IA Camp · Google Women TechMakers Ambassador · 5,000+ women impacted across LATAM.
+Writing at [Conversation Design](https://humanxaidesign.substack.com/)
